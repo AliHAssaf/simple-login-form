@@ -1,0 +1,56 @@
+form{
+    width: 30%;
+    height: 400px;
+    border: 2px solid gray;
+    border-radius: 25px;
+    padding: 15px;
+    margin: 50px auto;
+}
+form input{
+    width: 95%;
+    height: 30px;
+    border: 1px solid rgb(187, 184, 184);
+    border-radius: 25px;
+    margin-top: 10px;
+    font-size: 12px;
+    padding-left: 15px;
+}
+form label{
+    margin: 15px 0px;
+    color: rgb(3, 3, 138);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div{
+    margin: 20px;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Arial Narrow Bold';
+}
+a{
+    text-decoration: none;
+    font-size: 13px;
+    color: rgb(3, 3, 138);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.forget{
+    float: right;
+}
+.logInDiv{
+    text-align: center;
+}
+.logIn{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(247, 182, 5);
+    color: white;
+    border: none;
+}
+img{
+    width: 30px;
+    height: 30px;
+}
+.icons{
+    text-align: center;
+}
